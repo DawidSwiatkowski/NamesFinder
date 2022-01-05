@@ -31,29 +31,4 @@ Rozwiązanie:
 	Wyszukujemy liczbę stworzoną z podanych liter i kombinacji imion.
 
 
-Kominacja imion (wzory).
-
-	Przykład dla 5 (n) imion
-	[0][1][2][3][4]
-	
-	z 1 wariacją:
-	0,1,2,3,4   (n)
-	
-	z 2 wariacjami
-	01,02,03,04	(n-1)
-	12,13,14    (n-2)
-	23,24       (n-3)
-	34          (n-4)
-	
-	Z 3 wariacjami
-	012,013,014  (n-2)
-	123,124      (n-3)
-	234          (n-4)
-	
-	Z 4 wariacjami
-	0123,0124    (n-3)
-	1234         (n-1)
-	
-	Z 5 wariacjami
-	01234         (1)
  
